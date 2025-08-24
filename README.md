@@ -1,27 +1,36 @@
-👋 Hi, I’m Dat Nguyen
+<h1 align="center"> Hi, I’m Dat Nguyen</h1>
+<h3 align="center"> Passionate about Technology & Innovation 🚀</h3>
 
-![Dat Gau 's GitHub stats](https://github-readme-stats.vercel.app/api?username=datgau&show_icons=true&theme=radical)
+---
 
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datgau&show_icons=true&theme=radical" alt="Dat Gau's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=donut&theme=radical" alt="Top Languages" height="150"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=donut)](https://github.com/datgau/github-readme-stats)
+---
 
+###  Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical" alt="WakaTime Stats"/>
+</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-👀 I’m interested in Technology and exploring new innovations.
+###  About Me
+-  I’m interested in **Technology** and exploring new innovations.  
+-  Currently learning **new programming languages & frameworks** to enhance my skills.  
+-  Open to collaborate on **open-source projects**.  
+-  Reach me via **email**: [Datgau1204@gmail.com](mailto:Datgau1204@gmail.com)  
+-  Pronouns: **He/Him**  
+-  Fun fact: I enjoy **solving puzzles** and **playing strategy games**.  
 
-🌱 I’m currently learning new programming languages and frameworksto enhance my skills.
+---
 
-💞️ I’m looking to collaborate on open-source projects related to my areas of interest.
-
-📫 You can reach me via email at Datgau1204@gmail.com or connect with me on Social network.
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I enjoy solving puzzles and playing strategy games in my free time.
-
-
-<!---
-Datgau/Datgau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  Connect with Me
+<p align="center">
+  <a href="mailto:Datgau1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/datgau"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
