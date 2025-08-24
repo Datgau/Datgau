@@ -2,6 +2,8 @@
 
 ![Dat Gau 's GitHub stats](https://github-readme-stats.vercel.app/api?username=datgau&show_icons=true&theme=radical)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=donut)](https://github.com/datgau/github-readme-stats)
 👀 I’m interested in Technology and exploring new innovations.
 
 🌱 I’m currently learning new programming languages and frameworksto enhance my skills.
