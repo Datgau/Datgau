@@ -4,6 +4,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=donut)](https://github.com/datgau/github-readme-stats)
+
+
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datgau\&hide_progress=true)
+
 👀 I’m interested in Technology and exploring new innovations.
 
 🌱 I’m currently learning new programming languages and frameworksto enhance my skills.
