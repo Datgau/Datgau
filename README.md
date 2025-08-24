@@ -1,4 +1,5 @@
 👋 Hi, I’m Dat Nguyen
+![Dat Gau 's GitHub stats](https://github-readme-stats.vercel.app/api?username=datgau)
 
 👀 I’m interested in Technology and exploring new innovations.
 
