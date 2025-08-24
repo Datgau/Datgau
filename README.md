@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=donut)](https://github.com/datgau/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datgau)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder)](https://github.com/anuraghazra/github-readme-stats)
 
 👀 I’m interested in Technology and exploring new innovations.
 
