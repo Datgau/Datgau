@@ -22,7 +22,7 @@
 -  I’m interested in **Technology** and exploring new innovations.  
 -  Currently learning **new programming languages & frameworks** to enhance my skills.  
 -  Open to collaborate on **open-source projects**.  
--  Reach me via **email**: [Datgau1204@gmail.com](mailto:Datgau1204@gmail.com)  
+-  Reach me via **email**: [Datbeo1204@gmail.com](mailto:Datbeo1204@gmail.com)  
 -  Pronouns: **He/Him**  
 -  Fun fact: I enjoy **solving puzzles** and **playing strategy games**.  
 
