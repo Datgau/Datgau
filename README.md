@@ -6,16 +6,7 @@
 ###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" alt="Dat Gau's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie" alt="Top Languages" height="150"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Pie Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau\&layout=donut-vertical" alt="Top Languages" height="150"/>  
 </p>
 
 ---
