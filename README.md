@@ -13,7 +13,7 @@
 
 ###  Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=datnguyencoder\&layout=compact&theme=radical&cache_seconds=86400" alt="WakaTime Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder\&layout=compact&theme=radical&cache_seconds=86400" alt="WakaTime Stats"/>
 
 </p>
