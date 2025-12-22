@@ -9,10 +9,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" alt="Dat Gau's GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 
 ### Coding Activity
@@ -21,6 +17,13 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" alt="WakaTime Stats"/>
 </p>
 
+---
+
+### Most Used Language
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
