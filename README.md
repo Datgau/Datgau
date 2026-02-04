@@ -14,7 +14,7 @@
 ### Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=datgau&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
@@ -22,8 +22,9 @@
 ### Most Used Language
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" />
 </p>
+
 
 ---
 
