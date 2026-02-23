@@ -14,15 +14,12 @@
 
 <table width="100%">
   <tr>
-    <!-- 70% -->
     <td width="70%" valign="top">
       <img 
         src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" 
         width="100%" 
       />
     </td>
-
-    <!-- 30% -->
     <td width="30%" valign="top">
       <img 
         src="https://github-readme-stats-nine-zeta-20.vercel.app/api/top-langs/?username=datgau&layout=compact&theme=radical" 
