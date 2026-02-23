@@ -15,16 +15,15 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <img 
-        src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" 
-        width="100%" 
-      />
+      <!-- WakaTime -->
+      <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" width="100%"/>
     </td>
     <td width="30%" valign="top">
-      <img 
-        src="https://github-readme-stats-nine-zeta-20.vercel.app/api/top-langs/?username=datgau&layout=compact&theme=radical" 
-        width="100%" 
-      />
+      <!-- Top langs -->
+      <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/top-langs/?username=datgau&layout=compact&theme=radical&hide_border=true" width="100%"/>
+      <br/>
+      <!-- Streak stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datgau&theme=radical" width="100%"/>
     </td>
   </tr>
 </table>
