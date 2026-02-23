@@ -14,7 +14,7 @@
 ### Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datgau&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datnguyencoder&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
