@@ -6,7 +6,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-looafjlf7-datgaus-projects.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" alt="Dat Gau's GitHub stats"/>
+  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" alt="Dat Gau's GitHub stats"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-looafjlf7-datgaus-projects.vercel.app/api/wakatime?username=datgau&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/wakatime?username=datgau&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### Most Used Language
 
 <p align="center">
-  <img src="https://github-readme-stats-looafjlf7-datgaus-projects.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" />
+  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api/top-langs/?username=datgau&layout=pie&theme=tokyonight" />
 </p>
 
 
