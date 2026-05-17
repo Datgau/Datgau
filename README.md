@@ -5,7 +5,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats-nine-zeta-20.vercel.app/api?username=datgau&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
